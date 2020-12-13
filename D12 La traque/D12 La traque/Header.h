@@ -9,7 +9,9 @@
 #pragma warning (disable:4996)
 
 inline void FirstFillMap();
+void PlacePisteur();
 inline void AffichMap();
+
 
 //ASCII:
 //space=32
