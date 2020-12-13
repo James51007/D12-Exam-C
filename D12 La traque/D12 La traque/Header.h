@@ -5,13 +5,11 @@
 #include <string.h>
 #include <time.h>
 #include <conio.h>
+#include <windows.h>
 #pragma warning (disable:4996)
-#include "Affichages.cpp"
-#include "Réflexions.cpp"
-#include "Main.cpp"
 
-int FirstFillMap();
-int AffichMap();
+inline void FirstFillMap();
+inline void AffichMap();
 
 //ASCII:
 //space=32

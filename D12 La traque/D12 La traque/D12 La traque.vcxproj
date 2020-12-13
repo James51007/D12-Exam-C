@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Prog.cpp" />
     <ClCompile Include="Affichages.cpp" />
     <ClCompile Include="Réflexions.cpp" />
   </ItemGroup>
