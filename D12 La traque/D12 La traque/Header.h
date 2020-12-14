@@ -8,13 +8,17 @@
 #include <windows.h>
 #pragma warning (disable:4996)
 
-inline void FirstFillMap();
+void FirstFillMap();
 void PlacePisteur();
-inline void AffichMap();
+void InitGame();
+void Game();
+void AffichMap();
 
 
 //ASCII:
 //space=32
+//P=80
+//M=77
 //*=42
 //0=48
 //1=49
