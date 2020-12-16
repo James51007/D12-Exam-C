@@ -12,6 +12,9 @@ void FirstFillMap();
 void PlacePisteur();
 void InitGame();
 void Game();
+void DeplaPisteur();
+void DeplaMonstre();
+void VerifTrace(int numPist);
 void AffichMap();
 
 
